@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+enter"], "command": "open_url" },
+    { "keys": ["ctrl+space"], "command": "open_url" },
+
+    { "keys": ["ctrl+shift+alt+enter"], "command": "open_all_urls" },
+    { "keys": ["ctrl+shift+alt+space"], "command": "open_all_urls" }
+]
