@@ -12,7 +12,7 @@ Opens urls of types `file://` and `http(s)://`.
 
 ## Installation
 
-Drop the plugin into Sublime Text's Packages/User folder (typically your `~/.config/sublime-text-3/Packages/User/`)
+Download this repo, and drop the files directly into Sublime Text's Packages/User folder (typically your `~/.config/sublime-text-3/Packages/User/`). If any of the configuration files are already there - bummer - you'll have to merge rather than overwrite. Hope to properly package this later on... 
 
 ## Personalization
 
