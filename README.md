@@ -7,7 +7,8 @@ This plugin lets you open URLs contained in the file your are viewing or editing
 
 You can also have it simultaneously open _all URLs_ contained in the file being viewed/edited, by using the mega keyboard combination `Ctrl + Shift + Alt + Enter`, or `Ctrl + Shift + Alt + space`, whichever you prefer.
 
-Opens urls of types `file://` and `http(s)://`.
+If the url is a file url, opens the file in a new Sublime tab. In case of a file directory url, opens the directory.
+Opens urls of types `file://` and `http(s)://`. 
 
 ## Installation
 
