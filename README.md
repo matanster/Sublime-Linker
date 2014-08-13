@@ -3,9 +3,9 @@
 A plugin for [Sublime Text 2 and 3](http://sublimetext.com) on Ubuntu linux.
 
 ## What it does
-This plugin lets you open URLs contained in the file your are viewing or editing in Sublime Text, with just a keystroke. Just position the caret over a URL, then hit `Ctrl+Enter` or `Ctrl+space`, whichever you prefer. 
+This plugin lets you open URLs contained in the file your are viewing or editing in Sublime Text, with just a keystroke. Just position the caret over a URL, then hit `Ctrl + Enter` or `Ctrl + space`, whichever you prefer. 
 
-You can also have it simultaneously open _all URLs_ contained in the file being viewed/edited, by using the mega keyboard combination `Ctrl+Shift+Alt+Enter`, or `Ctrl+Shift+Alt+space`, whichever you prefer.
+You can also have it simultaneously open _all URLs_ contained in the file being viewed/edited, by using the mega keyboard combination `Ctrl + Shift + Alt + Enter`, or `Ctrl + Shift + Alt + space`, whichever you prefer.
 
 Opens urls of types `file://` and `http(s)://`.
 
